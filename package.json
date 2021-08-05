@@ -40,7 +40,7 @@
     "tree-sitter-cli": "0.19.4"
   },
   "dependencies": {
-    "nan": "^2.14.2"
+    "nan": "^2.15.0"
   },
   "tree-sitter": [
     {
