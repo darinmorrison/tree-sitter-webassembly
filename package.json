@@ -35,7 +35,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^7.16.0",
     "eslint-config-prettier": "^8.1.0",
-    "eslint-plugin-prettier": "^3.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.2.1",
     "tree-sitter-cli": "0.19.4"
   },
